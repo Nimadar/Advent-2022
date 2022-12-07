@@ -1,0 +1,8 @@
+*
+
+# Whitelist
+!.gitignore
+!src/
+!src/*
+!build.bat
+!run.bat
